@@ -4,7 +4,7 @@ This is a sample project meant to teach you how to use GraphQL to query Arweave.
 Using React and Tailwind you'll build an app to query Arweave for n most recent PNG files and then show those images.
 
 A full tutorial for this project can be found here, it's recommended you read the tutorial before diving into the source code.
-https://staging.docs.bundlr.network/tutorials/graphql-explorer
+https://docs.bundlr.network/tutorials/graphql-explorer
 
 ## More Info
 
